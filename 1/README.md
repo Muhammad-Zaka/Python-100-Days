@@ -1,7 +1,7 @@
 # Topics:
 
-## Print Function <\br>
-## Input Function <\br>
-## Variables <\br>
-## Strings manipulation <\br>
+### 1- Print Function
+### 2- Input Function
+### 3- Variables
+### 4- Strings manipulation
 
