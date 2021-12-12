@@ -4,6 +4,7 @@ pipeline {
     stage('Test') {
       steps {
         echo 'Test Complete'
+        echo 'Done'
       }
     }
 
